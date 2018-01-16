@@ -1,0 +1,11 @@
+# User-specific stuff:
+.idea/*
+.vscode/*
+!.idea/runConfigurations
+
+*.log
+
+# Dependency directories
+node_modules/
+dist/
+/.jest
